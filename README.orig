@@ -1,0 +1,9 @@
+I’m learning git
+from master
+print("erzerze")
+<<<<<<< HEAD
+ajout d'un bug dans readme
+readme changé dans branche
+=======
+dsfsdsdgsddg
+>>>>>>> test
